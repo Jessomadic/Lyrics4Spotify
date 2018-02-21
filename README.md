@@ -1,0 +1,2 @@
+# Lyrics4forSpotify
+Code for my on-going project that grabs lyrics for every song on Spotify from 2 site (Right now more planned very soon) only MusixMatch and Genius right now. I need to rewrite the one for Genius to work correctly with the new Spotify API but it will be uploaded asap. This is an open source project to an extent. Any changes made please send to Jessecopas@gmail.com and I will test then add to the project
